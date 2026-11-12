@@ -2,7 +2,7 @@
 
 **Due + Moodle = Duedle**
 
-名古屋工業大学のMoodleで、課題の確認やコースの閲覧をしやすくするブラウザ拡張機能です。Chrome版はChromeウェブストアで配布しています。Mac・iPhone・iPad向けのSafari版はApp Storeでの配布を準備しています。
+名古屋工業大学のMoodleで、課題の確認やコースの閲覧をしやすくするブラウザ拡張機能です。Chrome版はChromeウェブストアで配布しています。Mac・iPhone・iPad向けのSafari版はApp Storeで配布しています。
 
 ## 導入方法・使い方・お問い合わせ
 
@@ -25,13 +25,13 @@
 | ブラウザ | 対象 | 配布状況 |
 | --- | --- | --- |
 | Google Chrome | Windows・MacのPC | Chromeウェブストアで配布中 |
-| Safari | macOS 13以降、iOS / iPadOS 16以降 | App Storeでの配布を準備中 |
+| Safari | macOS 13以降、iOS / iPadOS 16以降 | [App Store](https://apps.apple.com/jp/app/duedle/id6823456063) |
 
 対象サイトは[名古屋工業大学のMoodle](https://cms7.ict.nitech.ac.jp/moodle40a/)です。Safari版は上記のOSを対象に開発していますが、すべてのOSバージョン・端末での動作を確認しているわけではありません。
 
 開発・審査用には、架空データだけを使う[デモMoodle](https://duedle-35-184-191-167.sslip.io/moodle40a/)も用意しています。ログイン情報は審査案内で別途共有します。デモ対応はこのソースに含まれますが、既存のストア版・TestFlight版へ反映するには再ビルドと配布が必要です。[デモ環境の管理](demo/moodle/README.md)
 
-iPhone・iPad向けはSafari版の配布準備中です。スマホ版ChromeではDuedleを利用できません。
+iPhone・iPadではSafari版を利用できます。スマホ版ChromeではDuedleを利用できません。
 
 ## ご利用にあたって
 
